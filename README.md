@@ -27,11 +27,11 @@ With the input above, this tool will be able to:
 ## Installation ⚙️
 
 ```
-git clone https://github.com/be0vlk/Protintel
+git clone https://github.com/be0vlk/protintel
 ```
 
 ```
-cd Protintel
+cd protintel
 ```
 
 ```
